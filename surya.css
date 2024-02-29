@@ -1,21 +1,24 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: gray;
     margin: 0;
     padding: 0;
 }
 
 div {
     margin: 10px;
+    text-align: center;
 }
 
 h1 {
-    color: #333;
+    color: blue;
+    text-align: center;
 }
 
 label {
     display: block;
     margin-bottom: 5px;
+    text-align: center;
 }
 
 input {
@@ -25,14 +28,14 @@ input {
 
 button {
     padding: 8px 15px;
-    background-color: #4CAF50;
+    background-color: #af4c90;
     color: #fff;
     border: none;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #45a049;
+    background-color: #a21584;
 }
 
 #task-container {
